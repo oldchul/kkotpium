@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.oldchul.twa",
-        "sha256_cert_fingerprints": ["70:EA:A5:B9:E8:53:65:1A:B0:16:B4:2A:FF:56:5C:8A:E1:3D:1E:8D:90:A7:AE:D7:32:28:79:95:35:3D:85:BA"]
-      }
-    }]
